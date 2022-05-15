@@ -1,0 +1,12 @@
+["127.0.0.1:8080"]
+file_directory = "/test example/public/"
+path_to_php = "C:/php/"
+["127.0.0.1:8080".redirect]
+path = "/"
+destination = "https://google.com"
+
+["127.0.0.1:8081"]
+file_server = "yes"
+#["127.0.0.1:8081".redirect]
+#path = "/"
+#destination = "https://youtube.com"
